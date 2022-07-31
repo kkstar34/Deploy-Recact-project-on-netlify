@@ -9,6 +9,7 @@ function App() {
     <>
       <h1 className="title">Presentation React</h1>
       <p>React est un frameworks fabuleux ! 😀</p>
+      <p>Mise à jour</p>
 
       <About/>
     </>
